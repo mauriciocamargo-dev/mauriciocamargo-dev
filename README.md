@@ -5,21 +5,21 @@ File name on GitHub must be: README.md
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:0EA5E9,100:10B981&text=Mauricio%20Camargo&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Automation%20%7C%20WhatsApp%20CRM%20Systems&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,45:7C2D12,100:3F3F46&text=Mauricio%20Camargo&fontColor=F4F4F5&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Automation%20%7C%20Business%20Systems&descAlignY=58&descSize=17" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+software+that+turns+messy+operations+into+systems.;WhatsApp+CRM+%E2%80%A2+AI+Workflows+%E2%80%A2+Internal+Tools;From+business+problems+to+scalable+digital+products." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=750&color=F97316&center=true&vCenter=true&width=950&lines=I+build+software+for+real+business+operations.;AI+Automation+%E2%80%A2+Internal+Tools+%E2%80%A2+CRM+Systems;From+manual+processes+to+scalable+digital+workflows." alt="Typing SVG" />
 
 <br />
 
 <a href="https://www.linkedin.com/in/mauriciocamargo-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-mauriciocamargo--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-mauriciocamargo--dev-18181B?style=for-the-badge&logo=linkedin&logoColor=F97316" />
 </a>
 <a href="mailto:camargopaterninamauricio@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-27272A?style=for-the-badge&logo=gmail&logoColor=F97316" />
 </a>
-<img src="https://img.shields.io/badge/Bogot%C3%A1-Colombia-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Developer-Business%20Software-3F3F46?style=for-the-badge" />
 
 </div>
 
@@ -27,40 +27,41 @@ File name on GitHub must be: README.md
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="58%" valign="top">
 
-## 👋 About me
+## `whoami`
 
-I'm **Mauricio Camargo**, a software developer focused on building tools for real business operations.
+I'm **Mauricio Camargo**, a software developer focused on building systems that help businesses organize conversations, operations, data, and workflows.
 
-I work at the intersection of:
+I work on private client systems, internal tools, automation platforms, CRM workflows, dashboards, and API integrations.
 
-- **Business software**
-- **WhatsApp CRM systems**
-- **AI automation**
-- **Internal tools**
-- **Operational dashboards**
-- **API integrations**
-- **Self-hosted SaaS architecture**
-
-I like building software that is not just technically interesting, but actually useful for teams that need to move faster, reduce manual work, and keep control of their operations.
-
-</td>
-<td width="44%" valign="top">
-
-## 🚀 Current focus
-
-### Xat CRM
-
-A WhatsApp-first CRM platform for teams that manage conversations, candidates, customers, onboarding, support, and operations through messaging.
-
-**Core ideas:**
+My focus is simple:
 
 ```txt
-Conversation → Context → Workflow → Automation
+business problem → software system → automation → measurable impact
 ```
 
-Built around real operational needs, not generic templates.
+I prefer building practical software that real teams can use every day.
+
+</td>
+<td width="42%" valign="top">
+
+## `current_mode`
+
+```txt
+Building:
+  - business software
+  - AI automation
+  - CRM workflows
+  - internal tools
+  - API integrations
+
+Mindset:
+  - product thinking
+  - clean architecture
+  - operational impact
+  - secure deployments
+```
 
 </td>
 </tr>
@@ -70,34 +71,34 @@ Built around real operational needs, not generic templates.
 
 <div align="center">
 
-## 🧠 What I build
+## What I build
 
 </div>
 
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>💬 WhatsApp CRM</h3>
-<p>Multi-inbox messaging, contacts, notes, history, teams, and automation-ready workflows.</p>
-</td>
-<td align="center" width="25%">
-<h3>🤖 AI Workflows</h3>
-<p>AI-assisted systems that reduce repetitive work and help teams make faster decisions.</p>
-</td>
-<td align="center" width="25%">
 <h3>🧩 Internal Tools</h3>
-<p>Custom business software for operations, onboarding, recruitment, dashboards, and tracking.</p>
+<p>Custom platforms for teams that need to replace spreadsheets, manual work, and disconnected processes.</p>
 </td>
 <td align="center" width="25%">
-<h3>🔌 API Systems</h3>
-<p>Integrations, webhooks, data flows, and self-hosted infrastructure for scalable products.</p>
+<h3>🤖 AI Automation</h3>
+<p>AI-assisted workflows that reduce repetitive tasks and help teams work faster with better context.</p>
+</td>
+<td align="center" width="25%">
+<h3>💬 CRM Systems</h3>
+<p>Conversation-driven workflows, notes, contact context, messaging operations, and team collaboration.</p>
+</td>
+<td align="center" width="25%">
+<h3>🔌 Integrations</h3>
+<p>APIs, webhooks, databases, dashboards, and system-to-system automation for business operations.</p>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -110,69 +111,68 @@ Built around real operational needs, not generic templates.
 ### Infrastructure & Tools
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx" />
 
-### Automation & Product
+### Product & Automation
 <img src="https://skillicons.dev/icons?i=figma,notion" />
 
 </div>
 
 ---
 
-## 🧭 Product Direction
+## System thinking
 
 ```mermaid
 flowchart LR
-    A[Business Problem] --> B[Software Architecture]
-    B --> C[Automation]
-    C --> D[Team Workflow]
-    D --> E[Measurable Impact]
+    A[Manual Work] --> B[Process Mapping]
+    B --> C[Software Architecture]
+    C --> D[Automation Layer]
+    D --> E[Team Workflow]
+    E --> F[Business Impact]
 
-    style A fill:#0f172a,stroke:#38bdf8,color:#fff
-    style B fill:#0f172a,stroke:#38bdf8,color:#fff
-    style C fill:#0f172a,stroke:#10b981,color:#fff
-    style D fill:#0f172a,stroke:#10b981,color:#fff
-    style E fill:#064e3b,stroke:#34d399,color:#fff
+    style A fill:#18181B,stroke:#A1A1AA,color:#F4F4F5
+    style B fill:#18181B,stroke:#A1A1AA,color:#F4F4F5
+    style C fill:#27272A,stroke:#F97316,color:#F4F4F5
+    style D fill:#27272A,stroke:#F97316,color:#F4F4F5
+    style E fill:#3F3F46,stroke:#FDBA74,color:#F4F4F5
+    style F fill:#431407,stroke:#FDBA74,color:#F4F4F5
 ```
-
-I care about software that makes business operations clearer, faster, and easier to manage.
 
 ---
 
-## 🧱 Featured Work
+## Private work, public direction
+
+Most of the systems I build are private, client-facing, or internal business tools, so I do not publicly expose sensitive repositories, operational data, client workflows, credentials, infrastructure details, or proprietary implementations.
+
+What I can share publicly is my direction:
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Xat CRM
+### Business Software
 
-A WhatsApp-first CRM built for teams that need structured conversations, notes, historical context, and automation-ready workflows.
+Systems designed around real operational needs:
 
-**Focus areas:**
-
-- WhatsApp conversations
-- Internal notes
-- Contact matching
-- Public API and webhooks
-- Realtime updates
-- Operational messaging
-- Self-hosted deployment architecture
+- internal platforms
+- workflow tools
+- dashboards
+- user management
+- document flows
+- reporting
+- team productivity
 
 </td>
 <td width="50%" valign="top">
 
-### 🧑‍💼 Staffing Operations Platform
+### Automation Architecture
 
-Internal software for recruitment, onboarding, candidate communication, and operational tracking.
+Automation that connects tools and processes:
 
-**Focus areas:**
-
-- Candidate pipeline
-- Onboarding workflows
-- WhatsApp communication
-- Historical context
-- Internal dashboards
-- Recruiter workflows
-- Document and status tracking
+- API integrations
+- webhooks
+- AI-assisted workflows
+- message-driven processes
+- data synchronization
+- operational alerts
 
 </td>
 </tr>
@@ -180,45 +180,46 @@ Internal software for recruitment, onboarding, candidate communication, and oper
 
 ---
 
-## ⚡ How I think about software
+## Engineering principles
 
 > Good software should feel like leverage.
 
-I believe strong business software should be:
+I care about software that is:
 
-- **Useful before flashy**
-- **Reliable before complex**
-- **Simple enough for teams to adopt**
-- **Flexible enough for real workflows**
-- **Clear enough that people know what to do next**
-- **Built around operations, not assumptions**
+- **useful before flashy**
+- **secure before public**
+- **reliable before complex**
+- **clear before clever**
+- **designed around actual workflows**
+- **built to reduce operational noise**
+- **simple enough for teams to adopt**
 
 ---
 
-## 📌 Areas of Expertise
+## Areas of expertise
 
 <div align="center">
 
-`Business Software Architecture` · `WhatsApp CRM` · `AI Automation` · `Internal Tools` · `Full-Stack Development`  
-`Operational Dashboards` · `API Integrations` · `Webhooks` · `Recruitment Systems` · `Onboarding Workflows`  
-`Self-Hosted SaaS` · `Docker Deployments` · `Workflow Automation` · `Product Thinking`
+`Full-Stack Development` · `Business Software Architecture` · `AI Automation` · `CRM Workflows`  
+`Internal Tools` · `Operational Dashboards` · `API Integrations` · `Webhooks`  
+`Messaging Systems` · `PostgreSQL` · `Docker` · `Workflow Automation` · `Product Thinking`
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mauriciocamargo-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=10B981" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=mauriciocamargo-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=10B981&currStreakLabel=38BDF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mauriciocamargo-dev&show_icons=true&theme=dark&hide_border=true&bg_color=09090B&title_color=F97316&text_color=F4F4F5&icon_color=FDBA74" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=mauriciocamargo-dev&theme=dark&hide_border=true&background=09090B&ring=F97316&fire=FDBA74&currStreakLabel=F97316&sideLabels=F4F4F5&sideNums=F4F4F5" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauriciocamargo-dev&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=10B981&point=FFFFFF" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauriciocamargo-dev&theme=high-contrast&hide_border=true&bg_color=09090B&color=F4F4F5&line=F97316&point=FDBA74" width="100%" />
 
 </div>
 
@@ -228,16 +229,16 @@ I believe strong business software should be:
 
 ## Let's build systems that move businesses forward.
 
-If you are building, scaling, or modernizing operations through software, AI, or WhatsApp-based workflows, feel free to connect.
+I build private, practical, and scalable software for business operations, automation, and internal workflows.
 
 <br />
 
 <a href="mailto:camargopaterninamauricio@gmail.com">
-  <img src="https://img.shields.io/badge/Email-camargopaterninamauricio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-camargopaterninamauricio%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=F97316" />
 </a>
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:10B981,55:0EA5E9,100:0F172A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3F3F46,55:7C2D12,100:09090B" width="100%" />
 
 </div>
