@@ -5,13 +5,13 @@ File name on GitHub must be: README.md
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0B0B0F,45:1F1F23,100:3A2A1A&text=Software%20Developer%20%26%20AI%20Automation%20Builder&fontColor=F4F4F5&fontSize=34&fontAlignY=42&desc=Business%20Systems%20%E2%80%A2%20CRM%20Workflows%20%E2%80%A2%20Internal%20Tools%20%E2%80%A2%20API%20Integrations&descAlignY=66&descSize=15" width="100%" />
+<h1>Software Developer & AI Automation Builder</h1>
 
-<br />
+<h3>Business Systems • CRM Workflows • Internal Tools • API Integrations</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=750&color=F97316&center=true&vCenter=true&width=950&lines=I+build+software+for+real+business+operations.;AI+Automation+%E2%80%A2+Internal+Tools+%E2%80%A2+CRM+Systems;From+manual+processes+to+scalable+digital+workflows." alt="Typing SVG" />
-
-<br />
+<p>
+I build software for real business operations — from manual processes to scalable digital workflows.
+</p>
 
 <a href="https://www.linkedin.com/in/mauriciocamargo-dev">
   <img src="https://img.shields.io/badge/LinkedIn-mauriciocamargo--dev-18181B?style=for-the-badge&logo=linkedin&logoColor=F97316" />
@@ -20,6 +20,8 @@ File name on GitHub must be: README.md
   <img src="https://img.shields.io/badge/Email-Contact%20Me-27272A?style=for-the-badge&logo=gmail&logoColor=F97316" />
 </a>
 <img src="https://img.shields.io/badge/Focus-Business%20Software-3F3F46?style=for-the-badge" />
+
+<br /><br />
 
 </div>
 
@@ -188,58 +190,4 @@ I care about software that is:
 
 - **useful before flashy**
 - **secure before public**
-- **reliable before complex**
-- **clear before clever**
-- **designed around actual workflows**
-- **built to reduce operational noise**
-- **simple enough for teams to adopt**
-
----
-
-## Areas of Expertise
-
-<div align="center">
-
-`Full-Stack Development` · `Business Software Architecture` · `AI Automation` · `CRM Workflows`  
-`Internal Tools` · `Operational Dashboards` · `API Integrations` · `Webhooks`  
-`Messaging Systems` · `PostgreSQL` · `Docker` · `Workflow Automation` · `Product Thinking`
-
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mauriciocamargo-dev&show_icons=true&theme=dark&hide_border=true&bg_color=09090B&title_color=F97316&text_color=F4F4F5&icon_color=FDBA74" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=mauriciocamargo-dev&theme=dark&hide_border=true&background=09090B&ring=F97316&fire=FDBA74&currStreakLabel=F97316&sideLabels=F4F4F5&sideNums=F4F4F5" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauriciocamargo-dev&theme=high-contrast&hide_border=true&bg_color=09090B&color=F4F4F5&line=F97316&point=FDBA74" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-## Let's Build Systems That Move Businesses Forward
-
-I build private, practical, and scalable software for business operations, automation, and internal workflows.
-
-<br />
-
-<a href="mailto:camargopaterninamauricio@gmail.com">
-  <img src="https://img.shields.io/badge/Email-camargopaterninamauricio%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=F97316" />
-</a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&section=footer&color=0:09090B,55:27272A,100:3A2A1A" width="100%" />
-
-</div>
-
+- **reli
